@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cade Cluche</title>
-    <link>http://cadec.org/</link>
+    <link>https://cadecluche.github.io/</link>
     <description>Recent content on Cade Cluche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://cadec.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cadecluche.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>http://cadec.org/posts/post/</link>
+      <link>https://cadecluche.github.io/posts/post/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://cadec.org/posts/post/</guid>
+      <guid>https://cadecluche.github.io/posts/post/</guid>
       <description>This is a test post I am testing the functionality of posts. Hello World!</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://cadec.org/about/about/</link>
+      <link>https://cadecluche.github.io/about/about/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       
-      <guid>http://cadec.org/about/about/</guid>
+      <guid>https://cadecluche.github.io/about/about/</guid>
       <description>Hello! My name is Cade Cluche. I am a maker and hacker from Huntsville, Alabama. I attend the Alabama School of Cyber Technology and Engineering as a freshman. My personal interests include Linux, tinkering, 3D printing, hacking, and sometimes programming.
 Thank you for visiting my website! Have a wondeful day
 Cade Cluche</description>

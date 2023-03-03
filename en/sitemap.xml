@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cadec.org/</loc>
+    <loc>https://cadecluche.github.io/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://cadec.org/fr/"
+                href="https://cadecluche.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cadec.org/"
+                href="https://cadecluche.github.io/"
                 />
   </url><url>
-    <loc>http://cadec.org/posts/post/</loc>
+    <loc>https://cadecluche.github.io/posts/post/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cadec.org/posts/</loc>
+    <loc>https://cadecluche.github.io/posts/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cadec.org/about/about/</loc>
+    <loc>https://cadecluche.github.io/about/about/</loc>
     <lastmod>2022-11-20T09:03:20-08:00</lastmod>
   </url><url>
-    <loc>http://cadec.org/about/</loc>
+    <loc>https://cadecluche.github.io/about/</loc>
     <lastmod>2022-11-20T09:03:20-08:00</lastmod>
   </url><url>
-    <loc>http://cadec.org/categories/</loc>
+    <loc>https://cadecluche.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://cadec.org/fr/categories/"
+                href="https://cadecluche.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cadec.org/categories/"
+                href="https://cadecluche.github.io/categories/"
                 />
   </url><url>
-    <loc>http://cadec.org/tags/</loc>
+    <loc>https://cadecluche.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://cadec.org/fr/tags/"
+                href="https://cadecluche.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://cadec.org/tags/"
+                href="https://cadecluche.github.io/tags/"
                 />
   </url>
 </urlset>
