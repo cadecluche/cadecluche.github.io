@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cadecluche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cadecluche.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FNAF Handbook</title>
+      <link>https://cadecluche.github.io/posts/fnaf/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cadecluche.github.io/posts/fnaf/</guid>
+      <description>By Cade Cluche
+Introduction Five Nights At Freddy&amp;rsquo;s 1 is a simple but complex game. It involves four animatronics with varying levels of difficulty and different mechanics.
+My intended audience for this game is the new player who wants to learn how to play FNAF 1 in an effective and fun manner. In this tutorial, I will introduce all animatronics and walk you through the nights, including Night 6, 4/20 mode, and even your first green run (WIP).</description>
+    </item>
+    
     <item>
       <title>First post</title>
       <link>https://cadecluche.github.io/posts/post/</link>
